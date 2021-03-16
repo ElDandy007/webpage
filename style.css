@@ -27,3 +27,8 @@ text-align: center;
 .box {
 border: thin solid black;
 }
+
+#menu > li {
+    border: thin solid blue;
+    padding: 10px;
+}
