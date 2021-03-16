@@ -27,11 +27,3 @@ text-align: center;
 .box {
 border: thin solid black;
 }
-
-#menu {
-    list-style:lower-roman;
-}
-
-#menu > li {
-    border: thin solid blue;
-}
